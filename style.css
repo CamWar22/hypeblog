@@ -41,16 +41,16 @@ box-shadow: 10px 10px 29px 3px rgba(0,0,0,0.37);
     padding-left: 1rem;
 }
 
-<<<<<<< HEAD
 #cabecera .logo {
     width: 30px;
     height: 1.6rem;
     vertical-align: middle;
     padding-left: 1rem;
-=======
+}
+
 .footer {
     background-color: #fda;
     text-align: center;
     padding: 1rem;
->>>>>>> footer
+
 }
