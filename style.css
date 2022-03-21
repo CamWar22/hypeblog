@@ -1,5 +1,5 @@
 html {
-    background-color: #f5f5f5;
+    background-color: #000000;
 }
 
 body {
@@ -13,8 +13,9 @@ body {
 .container {
     width: 90%;
     margin: 0 auto;
-    border: 1px solid #fda;
+    border: 1px solid red;
     padding: 0;
+    background-color: #f5f5f5;
 }
 
 .container p {
@@ -31,10 +32,18 @@ box-shadow: 10px 10px 29px 3px rgba(0,0,0,0.37);
     padding: 1rem 0;
     font-weight: 700;
     font-size: 30px;
+    text-align: start;
 }
 
 #cabecera span {
     font-size: 16px;
     color: black;
+    padding-left: 1rem;
+}
+
+#cabecera .logo {
+    width: 30px;
+    height: 1.6rem;
+    vertical-align: middle;
     padding-left: 1rem;
 }
